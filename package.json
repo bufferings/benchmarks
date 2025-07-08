@@ -66,6 +66,7 @@
     "ienoopen": "^1.1.1",
     "inquirer": "^12.1.0",
     "koa": "^3.0.0",
+    "korix/kori": "^0.0.1-20250707.3",
     "micro": "^10.0.1",
     "micro-route": "^2.5.0",
     "microrouter": "^3.1.3",
